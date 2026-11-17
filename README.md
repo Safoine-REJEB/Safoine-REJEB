@@ -1,6 +1,6 @@
 # Hi there, I'm Safoine Rejeb 👋
 
-### 🎓 Final Year Embedded Systems Engineering Student | Tunisia 🇹🇳 → Germany 🇩🇪
+### 🎓 Final Year Embedded Systems Engineering Student 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-safoine--rejeb-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/safoine-rejeb/)
 [![GitHub](https://img.shields.io/badge/GitHub-Safoine--REJEB-181717?style=flat&logo=github&logoColor=white)](https://github.com/Safoine-REJEB)
